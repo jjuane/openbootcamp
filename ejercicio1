@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio de Introducción a HTML en OpenBootcamp</title>
+</head>
+<body>
+
+    <!-- 
+        Este es mi primer comentario de dos líneas
+        Aprendiendo a documentar mi código con OpenBootcamp
+    -->
+
+    <ul>
+        <li>
+            <a href="https://www.youtube.com/watch?v=6ndozqpT4Zk">FLYING OVER PARADISE (4K UHD) - Relaxing Music Along With Beautiful Nature Videos - 4K Video HD</a>
+        </li>
+        <li>
+            <a href="https://www.youtube.com/watch?v=l_VCLc22IAM">FLYING OVER WATERFALL (4K UHD) - Relaxing Music Along With Beautiful Nature Videos - 4K Video HD</a>
+        </li>
+        <li>
+            <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ">COSTA RICA IN 4K 60fps HDR (ULTRA HD)</a>
+        </li>
+    </ul>
+    
+</body>
+</html>
